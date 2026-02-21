@@ -1,0 +1,9 @@
+{
+  "name": "document-approval-workflow",
+  "version": "1.0.0",
+  "description": "Simple BPM Document Approval Simulator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
